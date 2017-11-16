@@ -1,0 +1,2 @@
+# condominiopredial-
+echo "# condominiopredial-"
